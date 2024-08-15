@@ -1,0 +1,12 @@
+# Unity
+[Ll]ibrary/
+[Ll]ogs/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Uu]ser[Ss]ettings/
+[Aa]ssets/**/*.csproj
+[Aa]ssets/**/*.sln
+.vs/
+.vscode/
